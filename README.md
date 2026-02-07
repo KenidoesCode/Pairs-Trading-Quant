@@ -8,11 +8,6 @@ This project focuses on **exploiting mean reversion between two cointegrated sto
 
 ## 🚀 Why This Project Matters
 
-Most beginner trading projects:
-- Try to **predict stock prices** ❌  
-- Rely on indicators or ML hype ❌  
-- Ignore statistical validation ❌  
-
 This project takes a **professional quant approach**:
 - ✅ Uses **statistical relationships**, not predictions  
 - ✅ Validates assumptions with **hypothesis testing**  
